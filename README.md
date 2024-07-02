@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rakib Hossen</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
-<img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif'>
+<img align='right' alt='coding' width='400' src='https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7'>
 
-<p align="left"> <img src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7" alt="rakibhossen678" /> </p>
+<p align="left"> <img src="" alt="rakibhossen678" /> </p>
 
 - 🌱 I’m currently learning **React js , MongoDB , Express JS**
 
