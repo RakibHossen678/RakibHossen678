@@ -4,7 +4,7 @@
 
 <img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=Profile%20views&color=0e75b6&style=flat" alt="rakibhossen678" /> </p>
+<p align="left"> <img src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7" alt="rakibhossen678" /> </p>
 
 - 🌱 I’m currently learning **React js , MongoDB , Express JS**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rakib hossen" target="blank"><img align="center" src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7" alt="rakib hossen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rakib hossen" target="blank"><img align="center" src="https://www.linkedin.com/in/hossen-rakib/" alt="rakib hossen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
