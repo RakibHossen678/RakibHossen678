@@ -1,4 +1,4 @@
-![image](https://github.com/RakibHossen678/RakibHossen678/assets/149133972/75895cd0-8446-4a2a-beb1-7af0f8ba754d)![logo](https://i.ibb.co/Km0T9Rf/Front-end.png)
+![image](https://i.ibb.co/Km0T9Rf/Front-end.png)
 <h1 align="center">Hi 👋, I'm Rakib Hossen</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
