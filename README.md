@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/Km0T9Rf/Front-end.png)
+![image](https://github.com/RakibHossen678/RakibHossen678/assets/149133972/75895cd0-8446-4a2a-beb1-7af0f8ba754d)![logo](https://i.ibb.co/Km0T9Rf/Front-end.png)
 <h1 align="center">Hi 👋, I'm Rakib Hossen</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **rh491464@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O0KXIbwm5Ypn6pzl1zqGarTeD-vmzYsk/view](https://drive.google.com/file/d/1O0KXIbwm5Ypn6pzl1zqGarTeD-vmzYsk/view)
+- 📄 Know about my experiences ![image](https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7)
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
