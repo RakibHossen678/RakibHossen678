@@ -1,4 +1,4 @@
-![logo](https://github.com/RakibHossen678/RakibHossen678/blob/main/githubbanner.jpg)
+![logo](https://i.ibb.co/Km0T9Rf/Front-end.png)
 <h1 align="center">Hi 👋, I'm Rakib Hossen</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
