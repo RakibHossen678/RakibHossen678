@@ -9,13 +9,11 @@
 - 🌱 I’m currently learning **React js , MongoDB , Express JS**
 
 - 📫 How to reach me **rh491464@gmail.com**
-
-- 📄 Know about my experiences (https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7)
 )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rakib hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib hossen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rakib hossen" target="blank"><img align="center" src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7" alt="rakib hossen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
