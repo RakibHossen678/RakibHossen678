@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rh491464@gmail.com**
 
-- 📄 Know about my experiences ![image](https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7)
+- 📄 Know about my experiences (https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7)
 )
 
 <h3 align="left">Connect with me:</h3>
