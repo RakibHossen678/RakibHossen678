@@ -1,5 +1,5 @@
 ![image](https://i.ibb.co/Km0T9Rf/Front-end.png)
-<h1 align="center">Hello, I'm Rakib Hossen</h1> <h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3> <img align="right" alt="Coding" width="400" src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7">
+<h1 align="center">Hello, I'm Rakib Hossen</h1> <h3 align="center">🌟 A Passionate Frontend Web Developer from Bangladesh</h3> <img align="right" alt="Coding" width="400" src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7">
 👀 Profile Views
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> </div>
 
