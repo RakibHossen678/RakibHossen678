@@ -1,5 +1,8 @@
 ![image](https://i.ibb.co/Km0T9Rf/Front-end.png)
-<h1 align="center">Hello, I'm Rakib Hossen</h1> <h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3> <img align="right" alt="Coding" width="400" src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h1 align="center">Hello, I'm Rakib Hossen</h1> <h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3> <img align="right" alt="Coding" width="400" src="https://github.com/RakibHossen678/RakibHossen678/assets/149133972/2352e062-6e47-4107-a61e-8386eb2bf6e7">
+👀 Profile Views
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> </div>
+
 I am a frontend developer with a strong passion for creating dynamic and responsive web applications. My main focus is on leveraging React.js to develop efficient and scalable web solutions. With a solid foundation in JavaScript, HTML5, CSS3, and modern web development practices, I am constantly enhancing my skills in full-stack development with a particular interest in the MERN stack.<br/>
 
 🌱 Currently Learning: React.js, MongoDB, Express.js <br/>
