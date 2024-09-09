@@ -3,9 +3,9 @@
 👀 Profile Views
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> </div>
 
-I am a frontend developer with a strong passion for creating dynamic and responsive web applications. My main focus is on leveraging React.js to develop efficient and scalable web solutions. With a solid foundation in JavaScript, HTML5, CSS3, and modern web development practices, I am constantly enhancing my skills in full-stack development with a particular interest in the MERN stack.<br/>
+I am a frontend developer with a strong passion for creating dynamic and responsive web applications. My main focus is on leveraging React.js to develop efficient and scalable web solutions. With a solid foundation in React Js, JavaScript, Express Js, MongoDB HTML5, CSS3, and modern web development practices, I am constantly enhancing my skills in full-stack development with a particular interest in the MERN stack.<br/>
 
-🌱 Currently Learning: React.js, MongoDB, Express.js <br/>
+🌱 Currently Learning: Next.Js, React.js, MongoDB, Express.js <br/>
 💼 Seeking opportunities: As a front-end or full-stack developer <br/>
 📧 Contact me: rh491464@gmail.com 
 
