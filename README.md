@@ -24,6 +24,9 @@ I am a frontend developer with a strong passion for creating dynamic and respons
 <a href="https://www.facebook.com/profile.php?id=100056015882794" target="_blank"> 
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Rakib Hossen | Facebook" /> 
 </a>
+<a href="https://wa.me/01933796400" target="_blank"> 
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Rakib Hossen | WhatsApp" /> 
+</a>
 
 ---
 
