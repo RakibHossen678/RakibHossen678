@@ -18,7 +18,7 @@ I am a **Frontend Developer** with a strong passion for building dynamic, respon
 
 ### 💼 About Me
 - 🌱 **Currently Learning**: Next.js, MongoDB, Express.js  
-- 💼 **Looking for**: Frontend or Full-stack development opportunities  
+- 💼 **Looking for**: Frontend development opportunities  
 - 📫 **Reach Me At**: rh491464@gmail.com  
 
 ---
