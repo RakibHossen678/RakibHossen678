@@ -59,20 +59,21 @@ I am a **Frontend Developer** with a strong passion for building dynamic, respon
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background-color: #1A1A1A; border-radius: 12px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px; background-color: #1A1A1A; border-radius: 12px;">
   <a href="https://github.com/RakibHossen678" style="text-decoration: none;">
-    <img height="180em" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhossen678&show_icons=true&theme=radical&locale=en&layout=compact&title_color=FF4500&text_color=FFFFFF" alt="Rakib Hossen's Top Languages" />
+    <img height="180em" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhossen678&count_private=true&show_icons=true&theme=radical&locale=en&layout=compact&title_color=FF4500&text_color=FFFFFF" alt="Rakib Hossen's Top Languages" />
   </a>
   <a href="https://github.com/RakibHossen678" style="text-decoration: none;">
-    <img height="180em" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&show_icons=true&theme=radical&locale=en&title_color=FF4500&text_color=FFFFFF" alt="Rakib Hossen's GitHub Stats" />
+    <img height="180em" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&count_private=true&show_icons=true&theme=radical&locale=en&title_color=FF4500&text_color=FFFFFF" alt="Rakib Hossen's GitHub Stats" />
   </a>
 </div>
 
 <div align="center" style="padding-top: 20px;">
   <a href="https://github.com/RakibHossen678" style="text-decoration: none;">
-    <img height="180em" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=radical&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="Rakib Hossen's GitHub Streak" />
+    <img height="180em" style="border-radius: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=radical&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="Rakib Hossen's GitHub Streak" />
   </a>
 </div>
+
 
 ---
 
