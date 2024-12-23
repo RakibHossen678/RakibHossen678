@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=PROFILE%20VIEWS&color=FF5733&style=for-the-badge" alt="Profile Views" />
 </p>
 
-I am a **Frontend Developer** with a strong passion for building dynamic, responsive web applications. With a focus on **React.js**, I create scalable solutions that are both efficient and user-friendly. My tech stack includes **React.js, JavaScript, Express.js, MongoDB, HTML5, CSS3**, and I’m continuously learning new technologies like **Next.js** to stay updated with modern web practices.
+I am a **Frontend Developer** with a strong passion for building dynamic, responsive web applications. With a focus on **React.js**, I create scalable solutions that are both efficient and user-friendly. My tech stack includes **React.js**, **Next js**, **JavaScript**, **Express.js**, **MongoDB**, **HTML5**, **CSS3**, and I’m currently learning full-stack web development..
 
 ---
 
@@ -75,8 +75,4 @@ I am a **Frontend Developer** with a strong passion for building dynamic, respon
   </a>
 </div>
 
-
 ---
-
-
-
