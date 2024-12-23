@@ -16,10 +16,11 @@ I am a **Frontend Developer** with a strong passion for building dynamic, respon
 
 ---
 
-### 💼 About Me
-- 🌱 **Currently Learning**: Next.js, MongoDB, Express.js  
-- 💼 **Looking for**: Frontend development opportunities  
-- 📫 **Reach Me At**: rh491464@gmail.com  
+## 🚀 About Me
+- 🌱 I’m currently learning full-stack web development.
+- 💬 Ask me about web development, JavaScript.
+- 📫 How to reach me: [rakibhossen5860@gmail.com](mailto:rakibhossen5860@gmail.com) 
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ---
 
