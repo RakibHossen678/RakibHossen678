@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Rakib Hossen 👋</h1> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=PROFILE%20VIEWS&color=FF5733&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=PROFILE%20VIEWS&color=00FFAA&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
@@ -80,7 +80,3 @@ Let’s build something amazing together! 😊
 
 📈 Activity Graph
 <div align="center"> <a href="https://github.com/RakibHossen678"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhossen678&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
-
----
-
-
