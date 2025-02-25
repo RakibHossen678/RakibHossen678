@@ -74,7 +74,11 @@ Let’s build something amazing together! 😊
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px; background: linear-gradient(145deg, #0F2027, #2C5364); border-radius: 12px; box-shadow: 0px 8px 16px rgba(0,0,0,0.2);"> <a href="https://github.com/RakibHossen678" style="text-decoration: none;"> <img height="180em" style="border-radius: 10px; transition: transform 0.3s;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhossen678&count_private=true&show_icons=true&theme=blue-green&locale=en&layout=compact&title_color=00FFAA&text_color=FFFFFF&bg_color=0F2027" alt="Top Languages" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> <a href="https://github.com/RakibHossen678" style="text-decoration: none;"> <img height="180em" style="border-radius: 10px; transition: transform 0.3s;" src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&count_private=true&show_icons=true&theme=blue-green&locale=en&title_color=00FFAA&text_color=FFFFFF&bg_color=0F2027" alt="GitHub Stats" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div><div align="center" style="padding-top: 20px;"> <a href="https://github.com/RakibHossen678" style="text-decoration: none;"> <img height="180em" style="border-radius: 10px; transition: transform 0.3s;" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=blue-green&ring=00FFAA&fire=00FFAA&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=0F2027" alt="GitHub Streak" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossen678&theme=chartreuse-dark&layout=compact" alt="rakibhossen678" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&show_icons=true&theme=chartreuse-dark" alt="rakibhossen678" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=chartreuse-dark" alt="rakibhossen678" /></p>
 
 ---
 
