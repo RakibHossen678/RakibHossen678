@@ -1,13 +1,15 @@
 ![image](https://i.ibb.co/Km0T9Rf/Front-end.png)
-<h1 align="center">Hello, I'm Rakib Hossen 👋</h1> 
+<h1 align="center">
+<span style="color: #00FFAA;">Hello, I'm Rakib Hossen 👋</span>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=PROFILE%20VIEWS&color=00FFAA&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rakibhossen678&label=PROFILE%20VIEWS&color=00FFAA&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
 
-👋 Hi there! I’m **Rakib Hossen**, a passionate **Frontend Developer** from **Bangladesh** with a love for building dynamic, responsive, and user-friendly web applications.
+👋 Hi there! I’m Rakib Hossen, a passionate MERN Stack Developer from Bangladesh with a love for building dynamic, responsive, and user-friendly web applications.
 
 - 🌱 **Currently Learning**: Full-stack web development to expand my skills and create end-to-end solutions.
 - 💬 **Ask Me About**: Web development, JavaScript, React.js, and building scalable frontend applications.
@@ -28,18 +30,18 @@ Let’s build something amazing together! 😊
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hossen-rakib/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100056015882794" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://wa.me/01933796400" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://github.com/RakibHossen678" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+<a href="https://www.linkedin.com/in/hossen-rakib/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100056015882794" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+<a href="https://wa.me/01933796400" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+<a href="https://github.com/RakibHossen678" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
 </p>
 
 ---
@@ -76,11 +78,14 @@ Let’s build something amazing together! 😊
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossen678&theme=chartreuse-dark&layout=compact" alt="rakibhossen678" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&show_icons=true&theme=chartreuse-dark" alt="rakibhossen678" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=chartreuse-dark" alt="rakibhossen678" /></p>
 
 ---
 
 📈 Activity Graph
-<div align="center"> <a href="https://github.com/RakibHossen678"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhossen678&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
+<div align="center">
+<a href="https://github.com/RakibHossen678">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhossen678&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
+</div>
