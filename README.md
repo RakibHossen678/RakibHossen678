@@ -1,4 +1,4 @@
-![Profile Banner](https://i.ibb.co/Km0T9Rf/Front-end.png)
+![Profile Banner](https://res.cloudinary.com/dhzcneeew/image/upload/v1746609781/Front-end_c0lo8t.png)
 
 <h1 align="center">
   <span style="color: #00FFAA;">Hello, I'm Rakib Hossen 👋</span>
