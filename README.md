@@ -113,7 +113,7 @@ Let’s build something amazing together! 😊🚀
 <div align="center">
 
 #### 👨‍💻 My Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossen678&theme=radical&layout=compact" alt="Top Languages" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossen678&theme=radical&layout=compact" alt="Top Languages" width="470" />
 
 </div>
 
@@ -122,7 +122,7 @@ Let’s build something amazing together! 😊🚀
 <div align="center">
 
 #### 📈 Overall Activity Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&show_icons=true&theme=radical" alt="GitHub Stats" width="550" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
 
 </div>
 
@@ -131,7 +131,7 @@ Let’s build something amazing together! 😊🚀
 <div align="center">
 
 #### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=radical" alt="Streak Stats" width="320" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=radical" alt="Streak Stats" width="370" />
 
 </div>
 
