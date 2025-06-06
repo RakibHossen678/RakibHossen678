@@ -20,9 +20,9 @@ I love turning ideas into real-world solutions using clean code and thoughtful d
 
 ### 🔧 What I Do
 
-- 💻 **Frontend Development**: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+- 💻 **Frontend Development**: React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS  
 - 🛠️ **Backend Development**: Node.js, Express.js  
-- 🗄️ **Database**: MongoDB, MySQL  
+- 🗄️ **Database**: MongoDB, Mongoose, SQL, PostgreSQL  
 - 📦 **Tools & Technologies**: Git, GitHub, REST API, Postman, Firebase  
 
 ---
