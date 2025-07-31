@@ -139,17 +139,9 @@ Let’s build something amazing together! 😊🚀
 
 <div align="center">
 
-### 📊 GitHub Activity Summary
 
-<a href="https://github.com/RakibHossen678">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhossen678&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=14FFEC&line=14FFEC&point=14FFEC&title_color=14FFEC&custom_title=My%20GitHub%20Activity%20Graph" 
-    alt="GitHub Activity Graph" 
-    style="border-radius: 10px; transition: transform 0.3s;" 
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
-  />
-</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RakibHossen678&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 </div>
 
