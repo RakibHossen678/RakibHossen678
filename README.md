@@ -41,7 +41,7 @@ Whether you want to collaborate, discuss tech, or just say hi — feel free to r
 
 📧 Email: [rakibhossen5860@gmail.com](mailto:rakibhossen5860@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/hossen-rakib](https://www.linkedin.com/in/hossen-rakib/)  
-🐱 GitHub: [github.com/rakibhossen](https://github.com/rakibhossen678)
+🐱 GitHub: [github.com/rakibhossen678](https://github.com/rakibhossen678)
 
 ---
 
