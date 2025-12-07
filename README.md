@@ -39,7 +39,7 @@ I love turning ideas into real-world solutions using clean code and thoughtful d
 
 Whether you want to collaborate, discuss tech, or just say hi — feel free to reach out:
 
-📧 Email: [rakibhossen5860@gmail.com](mailto:rakib.hossen.webdev@gmail.com)  
+📧 Email: [rakib.hossen.webdev@gmail.com](mailto:rakib.hossen.webdev@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/hossen-rakib](https://www.linkedin.com/in/hossen-rakib/)  
 🐱 GitHub: [github.com/rakibhossen678](https://github.com/rakibhossen678)
 
