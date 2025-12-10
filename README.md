@@ -113,7 +113,7 @@ Let’s build something amazing together! 😊🚀
 <div align="center">
 
 #### 👨‍💻 My Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossen678&theme=radical&layout=compact" alt="Top Languages" width="470" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHossen678&theme=radical&layout=compact" alt="Top Languages" width="470" />
 
 </div>
 
@@ -122,7 +122,7 @@ Let’s build something amazing together! 😊🚀
 <div align="center">
 
 #### 📈 Overall Activity Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rakibhossen678&show_icons=true&theme=radical" alt="GitHub Stats" width="440" />
+<img src="https://github-readme-stats.vercel.app/api?username=RakibHossen678&show_icons=true&theme=radical" alt="GitHub Stats" width="440" />
 
 </div>
 
@@ -132,7 +132,7 @@ Let’s build something amazing together! 😊🚀
 <div align="center">
 
 #### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossen678&theme=radical" alt="Streak Stats" width="390" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakibHossen678&theme=radical" alt="Streak Stats" width="390" />
 
 </div>
 
@@ -147,10 +147,10 @@ Let’s build something amazing together! 😊🚀
 </div>
 
 ##  <img  style="margin-bottom: -10px;" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW50Zmh2Mm1wMGxkaGp5MWE1dmtkN21wYzBvZmh3cjA4d3d0ajl0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8XhEqSstMlwyyseiq0/giphy.gif" width = 40px height=40px > GitHub Trophies
-<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibhossen678&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" alt="rakibhossen678" /></a> </p>
+<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RakibHossen678&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" alt="RakibHossen678" /></a> </p>
 
 
 <div align="center">
   <h4 align="center">Thank you for Visiting 💚 </h1>
-  <img src="https://profile-counter.glitch.me/rakibhossen678/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/RakibHossen678/count.svg?"  />
 </div>
