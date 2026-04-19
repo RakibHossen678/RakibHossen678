@@ -110,44 +110,13 @@ Let’s build something amazing together! 😊🚀
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-#### 👨‍💻 My Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHossen678&theme=radical&layout=compact" alt="Top Languages" width="470" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-#### 📈 Overall Activity Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RakibHossen678&show_icons=true&theme=radical" alt="GitHub Stats" width="440" />
-
-</div>
-
-
-<br />
-
-<div align="center">
-
-#### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakibHossen678&theme=radical" alt="Streak Stats" width="390" />
-
-</div>
-
-<br />
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=rakibhossen678&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=DockerFile" alt="GitHub Insights" />
+</p>
 
 <div align="center">
 
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RakibHossen678&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-</div>
-
-##  <img  style="margin-bottom: -10px;" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW50Zmh2Mm1wMGxkaGp5MWE1dmtkN21wYzBvZmh3cjA4d3d0ajl0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8XhEqSstMlwyyseiq0/giphy.gif" width = 40px height=40px > GitHub Trophies
-<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RakibHossen678&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" alt="RakibHossen678" /></a> </p>
 
 
 <div align="center">
